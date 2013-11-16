@@ -5,7 +5,7 @@ Project 6: Surface of Revolution
 
 (See full project specifications here: http://ivl.calit2.net/wiki/index.php/Project6Fall13)
 
-Renders two connected bezier curves defined by 4 control points each and 20 interpolated points each (the two curves share a control point where they are connected). These curves are rotated around the y-axis to produce a shape. A texture is applied to this shape and lighted up. The control points can be changed and moved by mouse click. The shape can be rotated and moved by mouse click. The scene itself can be translated, rotated, and scaled as in cube but is not advisable.
+Renders two connected bezier curves defined by 4 control points each and 20 interpolated points each (the two curves share a control point where they are connected). These curves are rotated around the y-axis to produce a shape. A texture is applied to this shape and lighted up. The control points can be changed and moved by mouse click. The shape can be rotated and moved by mouse click. The scene itself can be translated, rotated, and scaled using keyboard commands as in cube but is not advisable.
 
 Mouse:
 * left-click: If in freeze mode, click and drag control points to move them around and change bezier curve shape. If not in freeze mode, click and drag to rotate object using ```trackballRotation``` in ```Shape.cpp```.
