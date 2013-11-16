@@ -1,6 +1,6 @@
 CSE 167 - Introduction to Computer Graphics
 
-Project 6: surfaceofrevolution
+Project 6: Surface of Revolution
 ===================
 
 (See full project specifications here: http://ivl.calit2.net/wiki/index.php/Project6Fall13)
